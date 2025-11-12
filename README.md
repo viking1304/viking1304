@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white" >
 </picture>
 <picture>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" >
+  <img src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=databricks&logoColor=white" >
 </picture>
 <picture>
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" >
