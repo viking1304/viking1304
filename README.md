@@ -5,7 +5,7 @@
 
 <div align="center">
 <picture>
-  <img src="https://github-readme-stats.vercel.app/api?username=viking1304&show_icons=true&bg_color=0,0b00ff,0028ff,196cff,007eff&title_color=b2f2ff&text_color=fff&icon_color=b2f2ff" >
+  <img src="https://github-readme-stats.zcy.dev/api?username=viking1304&show_icons=true&bg_color=0,0b00ff,0028ff,196cff,007eff&title_color=b2f2ff&text_color=fff&icon_color=b2f2ff" >
 </picture>
 </div>
 
